@@ -1,9 +1,7 @@
 
-## Gemini ChatBot
-A chatbot, powered by google gemini pro , gemini pro vision and ui is maked by streamlit.
-
-https://geminichat.streamlit.app/
-
+## IMG SENSER
+A tool to rename and manager images by gemini pro vision.
+ 
 ## Running Locally
 ```python
 pip install -r requirements.txt
