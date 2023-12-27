@@ -1,0 +1,8 @@
+streamlit==1.29.0
+google-generativeai==0.3.1
+langchain==0.0.352
+langchain-google-genai==0.0.5
+jq==1.6.0
+lancedb==0.4.0
+tiktoken==0.5.2
+openai==1.6.1
