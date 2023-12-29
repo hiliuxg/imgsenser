@@ -4,6 +4,15 @@ A tool to rename and manager images by gemini pro vision.
  
 ## Running Locally
 ```python
+
+git clone https://github.com/hiliuxg/imgsenser.git
+
+cd imgsenser
+
+python3 -m venv .venv
+
+source .venv/bin/activate
+
 pip install -r requirements.txt
 
 # rename one image 
